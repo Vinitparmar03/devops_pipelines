@@ -2,7 +2,7 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [Master]
+    branches: [master]
 
 jobs:
   build:
